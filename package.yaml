@@ -30,8 +30,8 @@ dependencies:
 - network
 - tls
 - data-default-class
-- x509-store
-- x509-system
+- crypton-x509-store
+- crypton-x509-system
 - uuid-types
 - crypto-random
 - template-haskell
