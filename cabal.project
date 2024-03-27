@@ -1,8 +1,8 @@
 
 index-state:
-  , hackage.haskell.org 2023-10-05T21:19:55Z
+  , hackage.haskell.org 2024-03-27T13:37:06Z
 
-with-compiler: ghc-9.4.8
+with-compiler: ghc-9.6.4
 
 packages:
   .
